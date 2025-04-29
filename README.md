@@ -6,7 +6,7 @@
 
 Заканчиваю rustlings. текущий прогресс 
 
-Progress: [################################################>------------------------]  63/94
-Current exercise: exercises/quizzes/quiz3.rs
+Progress: [######################################################>------------------]  70/94
+Current exercise: exercises/18_iterators/iterators1.rs
 
 А затем вперёд в мир головоломок и развлечений в виде leetcode xd !
